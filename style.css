@@ -370,6 +370,12 @@ span {
     display: flex;
     flex-direction: column;
     justify-self: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
   }
   .project-box {
     width: 290px;
@@ -419,6 +425,12 @@ span {
     display: flex;
     flex-direction: column;
     justify-self: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
   }
   .project-box {
     width: 380px;
@@ -468,6 +480,12 @@ span {
     display: flex;
     flex-direction: column;
     justify-self: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
   }
   .project-box {
     width: 400px;
